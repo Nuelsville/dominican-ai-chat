@@ -9,15 +9,15 @@ export class Assistant {
   #client;
   #model;
 
-  // constructor(model = "gpt-4o-mini", client = openai) {
-  //   this.#client = client;
-  //   this.#model = model;
-  // }
-
-  constructor(model = "gpt-3.5-turbo", client = openai) {
+  constructor(model = "gpt-4o-mini", client = openai) {
     this.#client = client;
     this.#model = model;
   }
+
+  // constructor(model = "gpt-3.5-turbo", client = openai) {
+  //   this.#client = client;
+  //   this.#model = model;
+  // }
 
   async chat(content, history) {
     try {

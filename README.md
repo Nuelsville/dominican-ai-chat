@@ -1,11 +1,5 @@
 About me ◽️ 👨🏻‍💻 Front-End Engineer (9+ years) ◽️ 🎬 React.js Instructor on Udemy ◽️ 🎯 Mentor for Developers
 
-My courses
-
-◽️ [React.js AI Chatbot App with ChatGPT, Gemini AI and DeepSeek](https://www.udemy.com/course/reactjs-ai-chatbot-built-with-chatgpt-and-gemini-ai/?referralCode=C70BB647069AB126D136)
-
-◽️ [React Crash Course: From Zero to Hero](https://www.udemy.com/course/react-crash-course-from-zero-to-hero/?referralCode=FFEE417046C196879B4F&couponCode=CPSALEBRAND24)
-
 # AI Chatbot App
 
 This repository contains the source code for the "React.js AI Chatbot App with ChatGPT, Gemini AI and DeepSeek" course.
@@ -59,6 +53,3 @@ Run the `npm install` command to install all the libraries needed to run the app
 Run the `npm run dev` command in terminal to start the application.
 Open [http://localhost:5173](http://localhost:5173) to view it in your browser.
 The page will reload when you make changes.
-# dominican-ai-chat
-# dominican-ai-chat
-# dominican-ai-chat
