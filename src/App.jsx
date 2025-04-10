@@ -27,11 +27,11 @@ function App() {
   useEffect(() => {
     async function fetchInitialData() {
       try {
-        // const res = await fetch("https://du-web-scrapper.onrender.com/api/scraped-data");
-        // const data = await res.json();
-
-        const res = await fetch("https://du-web-scrapper.onrender.com/api/alternate-data");
+        const res = await fetch("https://du-web-scrapper.onrender.com/api/scraped-data");
         const data = await res.json();
+
+        // const res = await fetch("https://du-web-scrapper.onrender.com/api/alternate-data");
+        // const data = await res.json();
 
         const introSystemMessage = {
           content: `You are now Emmanuel, a customer support representative from Dominican University, Ibadan.
